@@ -24,11 +24,11 @@ html {
 }
 
 body {
-    background: url(/water-8100724_1280.jpg);
+    background: url(/bailey-zindel-NRQV-hBF10M-unsplash.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
-    height: 100vh;
+    height: 150vh;
     display: flex;
     align-items: center;
     justify-content: center;
